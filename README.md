@@ -1,8 +1,8 @@
 ### Hi there, I'm Rahul 
 
-## I'm a Student
+## I'm a Student from Bangalore, India.
 - 🔭 I’m currently working on a Project!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learning everything 🤣
 
 ### Connect with me:
 
