@@ -12,6 +12,11 @@
 [<img align="left" alt="Rahul | PGP" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/xfce4-style/png/256/application-pgp-keys.png" />][pgp]
 [<img align="left" alt="Rahul | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][telegram]
 
+<br />
+
+### Spotify Now Playing:
+[![Spotify](https://skynet-05.vercel.app//api/spotify-playing)](https://open.spotify.com/user/skynet_98)
+
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
 [linkedin]: https://linkedin.com/in/rarev10
