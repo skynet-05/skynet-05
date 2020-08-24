@@ -14,8 +14,8 @@
 
 <br />
 
-### Spotify Now Playing:
-[![Spotify](https://skynet-05.vercel.app//api/spotify-playing)](https://open.spotify.com/user/skynet_98)
+### Spotify Playing 🎧
+[<img src="https://skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
 
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
