@@ -21,6 +21,7 @@
 [<img align="left" alt="Rahul | PGP" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/xfce4-style/png/256/application-pgp-keys.png" />][pgp]
 [<img align="left" alt="Rahul | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Rahul | Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gravatar.svg" />][gravatar]
+[<img align="left" alt="Rahul | Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keybase.svg" />][keybase]
 
 <br />
 
@@ -33,3 +34,4 @@
 [pgp]: http://bit.ly/skynetpgp
 [telegram]: https://t.me/skynet05
 [gravatar]: https://en.gravatar.com/rareskynet
+[keybase]: https://keybase.io/notonline
