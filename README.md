@@ -2,6 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skynet-05" alt="skynet-05" /> </p>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
 ## I'm a Student from Bangalore, India.
 - 🔭 I’m currently working on a Project.
 - 🌱 I’m currently trying to learn everything 🤣
