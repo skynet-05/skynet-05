@@ -35,7 +35,7 @@
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
 [linkedin]: https://linkedin.com/in/rarev10
-[pgp]: http://bit.ly/skynetpgp
+[pgp]: https://gist.github.com/skynet-05/6b4aaa03f8c18e403ab34637917b1d19
 [telegram]: https://t.me/skynet05
 [gravatar]: https://en.gravatar.com/rareskynet
 [keybase]: https://keybase.io/notonline
