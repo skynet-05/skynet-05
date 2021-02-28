@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<p><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></p>
 
 ### Hi there, I'm Rahul 
 
