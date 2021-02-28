@@ -44,4 +44,4 @@
 [utopia]: https://github.com/skynet-05/skynet-05/blob/master/ucode_813ED1541186F25BE26D5C445703445D6AE35FB608A65249A9BBB5DFB7466567.png
 
 
-<link rel="icon" href="favicon.ico">
+<link rel="icon" href="/favicon.ico">
