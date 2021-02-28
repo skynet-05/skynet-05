@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
 ### Hi there, I'm Rahul 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skynet-05" alt="skynet-05" /> </p>
@@ -44,4 +46,3 @@
 [utopia]: https://github.com/skynet-05/skynet-05/blob/master/ucode_813ED1541186F25BE26D5C445703445D6AE35FB608A65249A9BBB5DFB7466567.png
 
 
-<link rel="shortcut icon" href="/favicon.ico">
