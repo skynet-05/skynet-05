@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico">
+
 ### Hi there, I'm Rahul 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skynet-05" alt="skynet-05" /> </p>
