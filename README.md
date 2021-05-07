@@ -23,7 +23,7 @@
 [<img align="left" alt="Rahul | Instagram" width="22px" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" />][instagram]
 [<img align="left" alt="Rahul | PGP" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/xfce4-style/png/256/application-pgp-keys.png" />][pgp]
 [<img align="left" alt="Rahul | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="Rahul | Gravatar" width="22px" src="https://cdn.wpbeginner.com/wp-content/uploads/2012/08/gravatarlogo.jpg" />][gravatar]
+[<img align="left" alt="Rahul | Gravatar" width="22px" src="https://pbs.twimg.com/profile_images/453956388851445761/8BKnRUXg.png" />][gravatar]
 [<img align="left" alt="Rahul | Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/300px-Keybase_logo_official.svg.png" />][keybase]
 [<img align="left" alt="Rahul | Stackoverflow" width="22px" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" />][stackoverflow]
 [<img align="left" alt="Rahul | Utopia" width="22px" src="https://pbs.twimg.com/profile_images/1303961120068243458/B-9Eb3PQ_400x400.png" />][utopia]
