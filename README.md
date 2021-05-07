@@ -19,7 +19,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Rahul | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter] 
-[<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1625702400&v=beta&t=hjJNlPlgkAhwayeigFz_Elzip7TOWaOvw8g5ZOmg-I4" />][linkedin]
+[<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1628726400&v=beta&t=8u_45QXcDemBoHCiTWQOlv5IJ2GRLywgsqj6AHfjDYw" />][linkedin]
 [<img align="left" alt="Rahul | Instagram" width="22px" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" />][instagram]
 [<img align="left" alt="Rahul | PGP" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/xfce4-style/png/256/application-pgp-keys.png" />][pgp]
 [<img align="left" alt="Rahul | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
