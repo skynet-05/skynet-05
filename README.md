@@ -35,6 +35,8 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
 
+<script src="https://tryhackme.com/badge/423533"></script>
+
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
 [linkedin]: https://linkedin.com/in/rarev10
