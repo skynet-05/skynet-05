@@ -27,7 +27,7 @@
 &nbsp;
 [<img align="left" title="@skynet05" alt="Rahul | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 &nbsp;
-[<img align="left" alt="Rahul | Gravatar" width="22px" src="https://pbs.twimg.com/profile_images/453956388851445761/8BKnRUXg.png" />][gravatar]
+[<img align="left" alt="Rahul | Gravatar" width="22px" src="https://pbs.twimg.com/profile_images/1469062206377582600/8uH6FfBy_400x400.png" />][gravatar]
 &nbsp;
 [<img align="left" alt="Rahul | Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/300px-Keybase_logo_official.svg.png" />][keybase]
 &nbsp;
