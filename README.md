@@ -42,7 +42,7 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
 
-<script src="https://tryhackme.com/badge/423533"></script>
+<!-- <script src="https://tryhackme.com/badge/423533"></script> -->
 <a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 <img src="brave-logotype-full-color.png" style="width:215px; height:66px;" title="Support Brave Browser">
