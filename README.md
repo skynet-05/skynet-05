@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-## I'm a freelancer from Bangalore, India.
+## I'm a Full-Stack Web and Cloud Engineer from Bangalore, India.
 - 🔭 I’m currently working in a CyberSecurity Start-up as a Product Developer.
 
 ### A passionate developer from India
