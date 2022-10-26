@@ -7,10 +7,8 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-## I'm a Full-Stack Web and Cloud Engineer from Bangalore, India.
-- 🔭 I’m currently working in a CyberSecurity Start-up as a Product Developer.
+## I'm a Full-Stack Web and Cloud Engineer.
 
-### A passionate developer from India
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/></p>
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynet-05&layout=compact&hide=html" alt="skynet-05" /></p> --->
@@ -40,12 +38,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true" alt="skynet-05" /></p>
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
+[<img align="left" src="https://spotify-now-playing.skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
 
 <!-- <script src="https://tryhackme.com/badge/423533"></script> -->
-<a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+<a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img align="right" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
-<img src="brave-logotype-full-color.png" style="width:215px; height:66px;" title="Support Brave Browser">
+<img align="right" src="brave-logotype-full-color.png" style="width:215px; height:66px;" title="Support Brave Browser">
 
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
