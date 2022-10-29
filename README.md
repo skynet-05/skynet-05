@@ -48,7 +48,7 @@
 [twitter]: https://twitter.com/_rare_10
 [instagram]: https://instagram.com/_rare_10
 [linkedin]: https://linkedin.com/in/rarev10
-[pgp]: http://pgp.notonline.live
+[pgp]: http://notonline.live/940713D9A6624ED408DD05F9F39284EAED9CD7CB.asc
 [telegram]: https://t.me/skynet05
 [gravatar]: https://en.gravatar.com/rareskynet
 [keybase]: https://keybase.io/notonline
