@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/notonline
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://notonline.live
+  * I am notonline (https://keybase.io/notonline) on keybase.
+  * I have a public key ASC2wBQabkBEH9XsOrST2ml5DC-3OmVVGIhl2qnCIwrQsgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c765d4c068bdc0d98233f76a07bddaf87f332558bb99714f6fdc5209bbef8f80a",
+      "host": "keybase.io",
+      "kid": "0120b6c0141a6e40441fd5ec3ab493da69790c2fb73a6555188865daa9c2230ad0b20a",
+      "uid": "fa8ee1088a93848725bb1d2b1d5c7919",
+      "username": "notonline"
+    },
+    "merkle_root": {
+      "ctime": 1667055193,
+      "hash": "1c711373fd8c0093ded0850b1894e4de6696e39c251a32d08aa8dd377cafa7f24aab957b254fd53136b88cf8a59f88cad3b72fe09ad87de3d1fb1f82e917ea7e",
+      "hash_meta": "3b65a65ccfa0fd00c0e75e2dcd515b176face865c4138eed399c0cdcd192eca8",
+      "seqno": 23453883
+    },
+    "service": {
+      "entropy": "1T1a+feV5Ef7Z6eZABR0jZZf",
+      "hostname": "notonline.live",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1667055213,
+  "expire_in": 504576000,
+  "prev": "afbc17865739f4e31b61436ecdaa8b7c5d1e1e497433e2bf125ccc9139d629bb",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtsAUGm5ARB/V7Dq0k9ppeQwvtzplVRiIZdqpwiMK0LIKp3BheWxvYWTESpcCH8Qgr7wXhlc59OMbYUNuzaqLfF0eHkl0M+K/ElzMkTnWKbvEIFuq8FisC/uHKurKZJOaJPiVNRPyhtbeK8rGf3FgzCpjAgHCo3NpZ8RAq4eNo0WZXRNRt0gqJfpuAw0VAvR/oSMXkMN9aP+RwgjnF7IG2mVMubC4SoQyUyErxY+Izf8eVFM0EXLbuNJyBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM/bLTXuXqSdpiJGhBwI/S8cYHMSVy6spyLtaDaE7L7vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/notonline
+
+==================================================================
