@@ -33,6 +33,7 @@
 &nbsp;
 [<img align="left" alt="Rahul | Utopia" width="22px" src="https://pbs.twimg.com/profile_images/1303961120068243458/B-9Eb3PQ_400x400.png" />][utopia]
 
+<a href="https://www.f6s.com/rahul-reddy?follow=1" target="_blank" title="Follow Rahul Reddy on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="78" height="22 " alt="Follow Rahul Reddy on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true" alt="skynet-05" /></p>
