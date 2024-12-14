@@ -39,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true" alt="skynet-05" /></p>
 
 ### Spotify Playing 🎧
-[<img align="left" src="https://spotify-now-playing.skynet-05.vercel.app/api/spotify-playing" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
+[<img align="left" src="https://spotify-now-playing-omega-five.vercel.app/api/spotify" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
 
 <!-- <script src="https://tryhackme.com/badge/423533"></script> -->
 <a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img align="right" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
