@@ -31,14 +31,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <img align="center" src="https://streak-stats.demolab.com?user=skynet-05&theme=radical" alt="GitHub Streak" /> -->
-</p>
-
----
-
 ### 🎧 Spotify Playing
 [![Spotify](https://spotify-now-playing-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/skynet_98)
 
@@ -53,4 +45,4 @@
 ---
 
 ### 🕵️‍♂️ Hidden Secret 🕵️‍♂️
-*Click [here](https://notonline.live/secret) to uncover a futuristic surprise...*
+*Click [here](https://notonline.live/secret) to uncover a surprise...*
