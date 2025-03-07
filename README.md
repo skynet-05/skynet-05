@@ -1,59 +1,56 @@
+<!--- GitHub Profile README -->
+
 <p><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"></p>
 
-### Hi there, I'm Rahul 
+### Hi there, I'm Rahul 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skynet-05" alt="skynet-05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skynet-05&style=for-the-badge" alt="Profile Views" /> </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" />
 
+## Full-Stack Web, Cloud & Systems Engineer
 
-## I'm a Full-Stack Web and Cloud Engineer.
+🚀 **Founder of a Cybersecurity Startup (Acquired)** | 🛡️ Security & Cloud Enthusiast
 
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/></p>
+---
 
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynet-05&layout=compact&hide=html" alt="skynet-05" /></p> --->
+### 🛠️ Tech Stack & Tools  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" title="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="50" title="Amazon Web Services"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50" title="Ubuntu"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" title="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" title="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" title="Terraform"/>
+</p>
 
-### Connect with me:
+🔹 **Hover over icons to see details**  
+🔹 Passionate about **Cloud Architecture, DevOps, Cybersecurity & Automation**
 
-[<img align="left" title="@_rare_10" alt="Rahul | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter] 
-&nbsp;
-[<img align="left" title="rarev10" alt="Rahul | LinkedIn" width="22px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />][linkedin]
-&nbsp;
-[<img align="left" title="@itznotonline" alt="Rahul | Instagram" width="22px" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" />][instagram]
-&nbsp;
-[<img align="left" title="Click to Download My Public Key" alt="Rahul | PGP" width="22px" src="https://www.iconattitude.com/icons/open_icon_library/xfce4-style/png/256/application-pgp-keys.png" />][pgp]
-&nbsp;
-[<img align="left" title="@skynet05" alt="Rahul | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-&nbsp;
-[<img align="left" alt="Rahul | Gravatar" width="22px" src="https://pbs.twimg.com/profile_images/1469062206377582600/8uH6FfBy_400x400.png" />][gravatar]
-&nbsp;
-[<img align="left" alt="Rahul | Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/300px-Keybase_logo_official.svg.png" />][keybase]
-&nbsp;
-[<img align="left" alt="Rahul | Stackoverflow" width="22px" src="https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" />][stackoverflow]
-&nbsp;
-[<img align="left" alt="Rahul | Utopia" width="22px" src="https://pbs.twimg.com/profile_images/1303961120068243458/B-9Eb3PQ_400x400.png" />][utopia]
+---
 
-<a href="https://www.f6s.com/rahul-reddy?follow=1" target="_blank" title="Follow Rahul Reddy on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="78" height="22 " alt="Follow Rahul Reddy on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
-<br />
+### 🔥 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!--   <img align="center" src="https://streak-stats.demolab.com?user=skynet-05&theme=radical" alt="GitHub Streak" /> -->
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skynet-05&show_icons=true" alt="skynet-05" /></p>
+---
 
-### Spotify Playing 🎧
-[<img align="left" src="https://spotify-now-playing-omega-five.vercel.app/api/spotify" alt="Rahul Spotify Playing" width="350" />](https://open.spotify.com/user/skynet_98)
+### 🎧 Spotify Playing
+[![Spotify](https://spotify-now-playing-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/skynet_98)
 
-<!-- <script src="https://tryhackme.com/badge/423533"></script> -->
-<a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img align="right" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+---
 
-<img align="right" src="brave-logotype-full-color.png" style="width:215px; height:66px;" title="Support Brave Browser">
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/reddyrahulv)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/itznotonline)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/itznotonline)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/itznotonline)
 
-[twitter]: https://twitter.com/_rare_10
-[instagram]: https://instagram.com/_rare_10
-[linkedin]: https://linkedin.com/in/rarev10
-[pgp]: http://notonline.live/940713D9A6624ED408DD05F9F39284EAED9CD7CB.asc
-[telegram]: https://t.me/skynet05
-[gravatar]: https://en.gravatar.com/rareskynet
-[keybase]: https://keybase.io/notonline
-[stackoverflow]: https://stackoverflow.com/users/14838303/notonline
-[utopia]: https://github.com/skynet-05/skynet-05/blob/master/ucode_813ED1541186F25BE26D5C445703445D6AE35FB608A65249A9BBB5DFB7466567.png
+---
 
-
+### 🕵️‍♂️ Hidden Secret 🕵️‍♂️
+*Click [here](https://notonline.live/secret) to uncover a futuristic surprise...*
