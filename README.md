@@ -46,7 +46,7 @@
 ---
 
 <a href="https://www.digitalocean.com/?refcode=cdd6ee6f6fe7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img align="right" src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+<a href="https://refer-nordvpn.com/AemvhUoFhUb"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NordVPN_logo.svg/330px-NordVPN_logo.svg.png" alt="NordVPN Referral Badge" /></a>
 
 ### 🕵️‍♂️ Hidden Secret 🕵️‍♂️
 *Click [here](https://notonline.live/secret) to uncover a surprise...*
-Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=reddyrahulv
